@@ -5,3 +5,9 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_Vignette
 * MF_ClampRange
 * MF_SimpleWaves
+* MF_Flicker
+* MF_GeometricRoughnessFactor
+* MF_SmoothCurveCheap
+* MF_SmoothTriangleWave
+* MF_TriangleWave
+* MF_UVRadialSimple
