@@ -11,3 +11,12 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_SmoothTriangleWave
 * MF_TriangleWave
 * MF_UVRadialSimple
+* MF_BarrelDistortion
+* MF_Curvature
+* MF_HSL
+* MF_HSLPerChannel
+* MF_InverseSmoothStep
+* MF_SphereUV
+* MF_TwirlUV
+### Shaders
+* MM_Wetness
