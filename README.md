@@ -20,5 +20,15 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_InverseSmoothStep
 * MF_SphereUV
 * MF_TwirlUV
+* MF_Fwidth
+* MF_Grid
+* MF_Pixelate
+* MF_Posterize
 ### Shaders
 * MM_Wetness
+* MM_Gauge
+* MM_ItemBounce
+* MM_GradientMapping
+* MM_ItemPickup
+### Examples
+Examples will be anything that might still be useful but don't really fit into a material function or being a full shader.
