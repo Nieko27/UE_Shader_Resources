@@ -38,5 +38,5 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MM_SimpleDepth
 * MM_CRTPCScreen
 ### Examples
-Examples are anything that might still be useful but don't really fit into a material function or being a full shader (Or recrations of shaders for other games).
+Examples are anything that might still be useful but don't really fit into a material function or being a full shader (Or recrations of shaders from other games).
 * MM_Gauge
