@@ -24,11 +24,19 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_Grid
 * MF_Pixelate
 * MF_Posterize
+* MF_Bias
+* MF_FlowUVSimple
+* MF_GammaToLinear
+* MF_LinearToGamma
+* MF_GradientWorld
+* MF_DisToCam
 ### Shaders
 * MM_Wetness
-* MM_Gauge
 * MM_ItemBounce
 * MM_GradientMapping
 * MM_ItemPickup
+* MM_SimpleDepth
+* MM_CRTPCScreen
 ### Examples
-Examples will be anything that might still be useful but don't really fit into a material function or being a full shader.
+Examples are anything that might still be useful but don't really fit into a material function or being a full shader (Or recrations of shaders for other games).
+* MM_Gauge
