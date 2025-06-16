@@ -30,7 +30,7 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_LinearToGamma
 * MF_GradientWorld
 * MF_DisToCam
-* MF_ParallaxUV (Thanks to Tuatara)
+* MF_ParallaxUV (Thanks to Tuatara https://bsky.app/profile/tuataragames.com)
 * MF_CheapChromaticAberration
 * MF_VertexSnap
 ### Shaders
