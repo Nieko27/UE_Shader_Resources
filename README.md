@@ -30,6 +30,9 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MF_LinearToGamma
 * MF_GradientWorld
 * MF_DisToCam
+* MF_ParallaxUV (Thanks to Tuatara)
+* MF_CheapChromaticAberration
+* MF_VertexSnap
 ### Shaders
 * MM_Wetness
 * MM_ItemBounce
@@ -37,6 +40,11 @@ A collection of shaders, material functions, textures, and other assorted resour
 * MM_ItemPickup
 * MM_SimpleDepth
 * MM_CRTPCScreen
+* MM_2LayerParallax
+* PPM_DistanceFog
+* MM_UberPropSimple
 ### Examples
 Examples are anything that might still be useful but don't really fit into a material function or being a full shader (Or recrations of shaders from other games).
 * MM_Gauge
+* MM_HL2Radar
+* MM_SourceDebugMat
